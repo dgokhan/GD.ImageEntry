@@ -9,7 +9,7 @@ Use images in your entrys
 UWP coming soon
 
 <a href="#">
-<img border="0" src="Resources/sample.png" width="400"   alt="SocialNetworkApp" /></a>
+<img border="0" src="https://github.com/AlexVarrese/Xamarin.Forms.ImageEntry/blob/master/Resources/sample.png?raw=true" width="400"   alt="SocialNetworkApp" /></a>
  
  **NuGet**
 
