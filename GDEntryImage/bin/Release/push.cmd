@@ -1,0 +1,1 @@
+dotnet nuget push GDEntryImage.1.0.1.nupkg -k oy2k4glu7lwhybb63edapum7nyfsosxebdwlet2p2f4zsu -s https://api.nuget.org/v3/index.json

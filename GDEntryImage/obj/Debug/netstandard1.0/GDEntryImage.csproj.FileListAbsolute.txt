@@ -1,0 +1,8 @@
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\netstandard1.0\Plugin.GDEntryImage.deps.json
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\netstandard1.0\Plugin.GDEntryImage.dll
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\netstandard1.0\Plugin.GDEntryImage.pdb
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\obj\Debug\netstandard1.0\GDEntryImage.AssemblyInfoInputs.cache
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\obj\Debug\netstandard1.0\GDEntryImage.AssemblyInfo.cs
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\obj\Debug\netstandard1.0\GDEntryImage.csproj.CoreCompileInputs.cache
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\obj\Debug\netstandard1.0\Plugin.GDEntryImage.dll
+C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\obj\Debug\netstandard1.0\Plugin.GDEntryImage.pdb

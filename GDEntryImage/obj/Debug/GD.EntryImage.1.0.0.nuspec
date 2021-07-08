@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GD.EntryImage</id>
+    <version>1.0.0</version>
+    <title>GDEntryImage Plugin for Xamarin and Windows</title>
+    <authors>dgokhan</authors>
+    <projectUrl>https://github.com/dgokhan/GDEntryImage</projectUrl>
+    <description>Use images in your entrys</description>
+    <releaseNotes>Xamarin Image Entry</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>xamarin, windows, ios, android, xamarin.forms, plugin, GDEntryImage</tags>
+    <repository url="https://github.com/dgokhan/GDEntryImage" />
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.8.0.1821" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="MonoAndroid9.0">
+        <dependency id="Xamarin.Forms" version="4.8.0.1821" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="Xamarin.iOS1.0">
+        <dependency id="Xamarin.Forms" version="4.8.0.1821" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Xamarin.Forms" version="4.8.0.1821" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="UAP10.0.16299">
+        <dependency id="Xamarin.Forms" version="4.8.0.1821" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Java.Interop" targetFramework="MonoAndroid9.0" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\netstandard1.0\Plugin.GDEntryImage.dll" target="lib\netstandard1.0\Plugin.GDEntryImage.dll" />
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\netstandard2.0\Plugin.GDEntryImage.dll" target="lib\netstandard2.0\Plugin.GDEntryImage.dll" />
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\xamarin.ios10\Plugin.GDEntryImage.dll" target="lib\xamarinios10\Plugin.GDEntryImage.dll" />
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\monoandroid90\Plugin.GDEntryImage.dll" target="lib\monoandroid90\Plugin.GDEntryImage.dll" />
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\uap10.0.16299\Plugin.GDEntryImage.dll" target="lib\uap10.0.16299\Plugin.GDEntryImage.dll" />
+    <file src="C:\Users\Maynard\source\repos\GDEntryImage\GDEntryImage\bin\Debug\uap10.0.16299\Plugin.GDEntryImage.pri" target="lib\uap10.0.16299\Plugin.GDEntryImage.pri" />
+  </files>
+</package>
